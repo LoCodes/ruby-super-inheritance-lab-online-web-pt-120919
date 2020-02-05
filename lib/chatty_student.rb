@@ -9,8 +9,7 @@ class ChattyStudent < Student
   def raise_hand  # #raise_hand the phrase 'Pick me!' ten times
     10.times do   # No "puts" because
     super
-
-#    super       #You can literally
+#    super       #You can literally write it down 10x as well 
 #    super
 #    super
 #    super
